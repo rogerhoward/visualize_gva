@@ -1,0 +1,24 @@
+body { 
+    margin: 0; 
+    padding: 10px; 
+}
+
+#chart-container { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%; 
+    background-color: #000000;
+}
+
+#notes {
+    border: 1px solid gray;
+    padding: 8px;
+    font-family: Helvetica, Arial;
+}
+
+#citySelect {
+    position: absolute;
+    right: 10px;
+    top: 4px;
+}

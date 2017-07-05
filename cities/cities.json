@@ -1,0 +1,280 @@
+{
+    "cities": [
+        {
+            "code": "NM00101",
+            "name": "Albuquerque, N.M."
+        },
+        {
+            "code": "TX22001",
+            "name": "Arlington, Texas"
+        },
+        {
+            "code": "GAAPD00",
+            "name": "Atlanta"
+        },
+        {
+            "code": "CO00101",
+            "name": "Aurora, Colo."
+        },
+        {
+            "code": "TX22701",
+            "name": "Austin, Texas"
+        },
+        {
+            "code": "MDBPD00",
+            "name": "Baltimore"
+        },
+        {
+            "code": "MD00301",
+            "name": "Baltimore County, Md."
+        },
+        {
+            "code": "MA01301",
+            "name": "Boston"
+        },
+        {
+            "code": "NY01401",
+            "name": "Buffalo, N.Y."
+        },
+        {
+            "code": "NC06001",
+            "name": "Charlotte-Mecklenburg, N.C."
+        },
+        {
+            "code": "ILCPD00",
+            "name": "Chicago"
+        },
+        {
+            "code": "OHCIP00",
+            "name": "Cincinnati"
+        },
+        {
+            "code": "OHCLP00",
+            "name": "Cleveland"
+        },
+        {
+            "code": "OHCOP00",
+            "name": "Columbus, Ohio"
+        },
+        {
+            "code": "TXDPD00",
+            "name": "Dallas"
+        },
+        {
+            "code": "CODPD00",
+            "name": "Denver"
+        },
+        {
+            "code": "MI82349",
+            "name": "Detroit"
+        },
+        {
+            "code": "TX07102",
+            "name": "El Paso, Texas"
+        },
+        {
+            "code": "VA02901",
+            "name": "Fairfax County, Va."
+        },
+        {
+            "code": "TX22012",
+            "name": "Fort Worth, Texas"
+        },
+        {
+            "code": "CA01005",
+            "name": "Fresno, Calif."
+        },
+        {
+            "code": "HI00200",
+            "name": "Honolulu"
+        },
+        {
+            "code": "TXHPD00",
+            "name": "Houston"
+        },
+        {
+            "code": "INIPD00",
+            "name": "Indianapolis"
+        },
+        {
+            "code": "FL01602",
+            "name": "Jacksonville, Fla."
+        },
+        {
+            "code": "MOKPD00",
+            "name": "Kansas City, Mo."
+        },
+        {
+            "code": "NV00201",
+            "name": "Las Vegas"
+        },
+        {
+            "code": "CA01941",
+            "name": "Long Beach, Calif."
+        },
+        {
+            "code": "CA01942",
+            "name": "Los Angeles"
+        },
+        {
+            "code": "CA01900",
+            "name": "Los Angeles County, Calif."
+        },
+        {
+            "code": "KY05680",
+            "name": "Louisville, Ky."
+        },
+        {
+            "code": "TNMPD00",
+            "name": "Memphis, Tenn."
+        },
+        {
+            "code": "AZ00717",
+            "name": "Mesa, Ariz."
+        },
+        {
+            "code": "FL01306",
+            "name": "Miami"
+        },
+        {
+            "code": "FL01300",
+            "name": "Miami-Dade County, Fla."
+        },
+        {
+            "code": "WIMPD00",
+            "name": "Milwaukee"
+        },
+        {
+            "code": "MN02711",
+            "name": "Minneapolis"
+        },
+        {
+            "code": "MD01604",
+            "name": "Montgomery County, Md."
+        },
+        {
+            "code": "TN01901",
+            "name": "Nashville, Tenn."
+        },
+        {
+            "code": "NY02900",
+            "name": "Nassau County, N.Y."
+        },
+        {
+            "code": "NA",
+            "name": "National"
+        },
+        {
+            "code": "LANPD00",
+            "name": "New Orleans"
+        },
+        {
+            "code": "NY03030",
+            "name": "New York City"
+        },
+        {
+            "code": "NJNPD00",
+            "name": "Newark, N.J."
+        },
+        {
+            "code": "CA00109",
+            "name": "Oakland, Calif."
+        },
+        {
+            "code": "OK05506",
+            "name": "Oklahoma City"
+        },
+        {
+            "code": "NB02802",
+            "name": "Omaha, Neb."
+        },
+        {
+            "code": "FL04804",
+            "name": "Orlando, Fla."
+        },
+        {
+            "code": "PAPEP00",
+            "name": "Philadelphia"
+        },
+        {
+            "code": "AZ00723",
+            "name": "Phoenix"
+        },
+        {
+            "code": "PAPPD00",
+            "name": "Pittsburgh"
+        },
+        {
+            "code": "OR02602",
+            "name": "Portland, Ore."
+        },
+        {
+            "code": "MD01721",
+            "name": "Prince George's County, Md."
+        },
+        {
+            "code": "NC09201",
+            "name": "Raleigh, N.C."
+        },
+        {
+            "code": "CA03404",
+            "name": "Sacramento, Calif."
+        },
+        {
+            "code": "UT01803",
+            "name": "Salt Lake City"
+        },
+        {
+            "code": "TXSPD00",
+            "name": "San Antonio"
+        },
+        {
+            "code": "CA03711",
+            "name": "San Diego"
+        },
+        {
+            "code": "CA03801",
+            "name": "San Francisco"
+        },
+        {
+            "code": "CA04313",
+            "name": "San Jose"
+        },
+        {
+            "code": "WASPD00",
+            "name": "Seattle"
+        },
+        {
+            "code": "MOSPD00",
+            "name": "St. Louis, Mo."
+        },
+        {
+            "code": "NY05101",
+            "name": "Suffolk County, N.Y."
+        },
+        {
+            "code": "FL02902",
+            "name": "Tampa, Fla."
+        },
+        {
+            "code": "AZ01003",
+            "name": "Tucson, Ariz."
+        },
+        {
+            "code": "OK07205",
+            "name": "Tulsa, Okla."
+        },
+        {
+            "code": "VA12800",
+            "name": "Virginia Beach, Va."
+        },
+        {
+            "code": "DCMPD00",
+            "name": "Washington, D.C."
+        },
+        {
+            "code": "KS08703",
+            "name": "Wichita, Kan."
+        }
+    ]
+}
